@@ -1,4 +1,4 @@
-# 🥗 AI-Based Personalized Diet & Fitness Recommendation System
+# AI-Based Personalized Diet & Fitness Recommendation System
 
 An AI-powered web application that provides **personalized diet and workout recommendations** using **Google Gemini Generative AI**. The system tailors suggestions based on user preferences, fitness goals, lifestyle, dietary restrictions, and health conditions, offering an interactive and intelligent health assistant.
 
@@ -29,5 +29,5 @@ Maintaining a healthy lifestyle can be challenging due to busy schedules and lac
 - **HTML & CSS**
 
 
-## ⚙️ System Architecture
+
 
