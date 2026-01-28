@@ -10,7 +10,7 @@ app = Flask(__name__)
 # Gemini Client
 # -------------------------------
 client = genai.Client(
-    api_key="AIzaSyDcjWN6_zLjCD7TdYuMijIFLca7rETJczc"
+    api_key="your api key"
 )
 
 # -------------------------------
@@ -98,3 +98,4 @@ def chat():
 # -------------------------------
 if __name__ == "__main__":
     app.run(debug=False)
+
