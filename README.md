@@ -27,6 +27,8 @@ Maintaining a healthy lifestyle can be challenging due to busy schedules and lac
 - **Flask Framework**
 - **Google Gemini Generative AI**
 - **HTML & CSS**
+
+---
 Add your API key
 Update app.py:
 client = genai.Client(api_key="YOUR_API_KEY")
